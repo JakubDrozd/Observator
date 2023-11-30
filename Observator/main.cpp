@@ -35,5 +35,6 @@ void ClientCode() {
 int main() {
   ClientCode();
   std::cout << "ABCD1234" << std::endl; // Wypisanie ABCD1234
+  std::cout << "Random new text" << std::endl; //New random text comment
   return 0;
 }
